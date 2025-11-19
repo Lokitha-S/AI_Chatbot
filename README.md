@@ -1,3 +1,4 @@
+<img width="1470" height="829" alt="Screenshot 2025-11-19 at 11 50 30 AM" src="https://github.com/user-attachments/assets/439b9496-be21-45a7-926e-16b40036dd6b" />
 
 # 🩺 AI Disease Prediction System
 
