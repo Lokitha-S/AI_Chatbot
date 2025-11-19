@@ -25,6 +25,12 @@ Built with Python and Streamlit, the system utilizes a Random Forest Classifier 
 * **ML Libraries:** Scikit-Learn, NumPy, Pandas
 * **Data Source:** Custom Healthcare CSV Datasets (Training & Master Data)
 
+##Disclaimer
+This project is for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition.
+<img width="1470" height="829" alt="Screenshot 2025-11-19 at 11 50 30 AM" src="https://github.com/user-attachments/assets/b5a74951-9082-4798-86b6-7bb5804968b2" />
+
+
+
 ## 📂 Project Structure
 ```text
 ├── app.py                   # Main Streamlit application file
@@ -37,6 +43,3 @@ Built with Python and Streamlit, the system utilizes a Random Forest Classifier 
     ├── symptom_precaution.csv   # Precautionary measures
     └── symptom_severity.csv     # Severity ratings
 
-##Disclaimer
-This project is for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition.<img width="1470" height="829" alt="Screenshot 2025-11-19 at 11 50 30 AM" src="https://github.com/user-attachments/assets/b5a74951-9082-4798-86b6-7bb5804968b2" />
-<img width="1470" height="829" alt="Screenshot 2025-11-19 at 11 50 30 AM" src="https://github.com/user-attachments/assets/2a79dd22-0917-4475-b362-f9ec1371a788" />
