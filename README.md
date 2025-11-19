@@ -1,5 +1,4 @@
 
-# PROJECT1
 # 🩺 AI Disease Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -27,7 +26,7 @@ Built with Python and Streamlit, the system utilizes a Random Forest Classifier 
 
 ##Disclaimer
 This project is for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition.
-<img width="1470" height="829" alt="Screenshot 2025-11-19 at 11 50 30 AM" src="https://github.com/user-attachments/assets/b5a74951-9082-4798-86b6-7bb5804968b2" />
+
 
 
 
