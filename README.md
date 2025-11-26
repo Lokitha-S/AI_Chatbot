@@ -7,7 +7,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange)
 
 ## 📌 Overview
-The AI Disease Prediction System** is a machine learning-based healthcare application designed to assist users in identifying potential diseases based on their symptoms. 
+The AI Disease Prediction System is a machine learning-based healthcare application designed to assist users in identifying potential diseases based on their symptoms. 
 
 Built with Python and Streamlit, the system utilizes a Random Forest Classifier to analyze user inputs against a dataset of over 40 diseases and 130+ symptoms. Beyond simple prediction, it acts as a virtual health consultant by providing disease descriptions, severity warnings, and precautionary measures.
 
